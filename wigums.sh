@@ -65,9 +65,9 @@ if [[ -z $optOnce  ]]; then
         fi
 
         nicks=(
-            goarilla DoverMo shunodu Kamii KarlFranz  
+            goarilla DoverMo shonudo Kamii KarlFranz  
             SkyWise ttkp Tekken rotten_bunny Chibapet
-            ProbablyAndy shunodu misheshu ut geggam rob0 
+            ProbablyAndy shunodu mishehu ut geggam rob0 
         )
         subject=(
         "terminal" "last gf" "your script" "it" "Plant" 
